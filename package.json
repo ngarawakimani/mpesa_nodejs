@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_mpesa",
+  "version": "1.0.0",
+  "description": "Lipa Na Mpesa Nodejs Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lipa",
+    "na",
+    "mpesa",
+    "node",
+    "mpesa\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "mpesa",
+    "online",
+    "nodejs",
+    "daraja",
+    "daraja"
+  ],
+  "author": "@ngarawakimani\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "moment": "^2.22.2",
+    "request": "^2.87.0"
+  }
+}
